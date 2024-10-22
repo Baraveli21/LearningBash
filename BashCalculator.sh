@@ -10,7 +10,7 @@ do
     echo "Addition 'add' Subtraction 'subt'"
     echo "Multiply 'mult' Division 'div'"
     echo "Quit 'q'"
-    echo "" # New line old line
+    echo ""
     read -p "Enter operation name: " operation
 
     if [ "$operation" = "q" ]

@@ -9,7 +9,7 @@ user=$(whoami)
 date=$(date)
 whereami=$(pwd)
 
-echo "Good Morning $name"
+echo "Good Morning $name" # echo mssg
 
 sleep "1"
 
@@ -18,6 +18,7 @@ echo "You're looking good today $name"
 sleep "2"
 
 echo "You are the weirdest person i have ever seen $name "
+echo "Tha bole nada" #Test 
 
 sleep "2"
 
